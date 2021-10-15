@@ -1,0 +1,23 @@
+{
+  "name": "tz-converter-matildadelacourt",
+  "version": "1.0.0",
+  "description": "Timezone converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RVCC-IDMX/tz-converter-MatildaDelacourt.git"
+  },
+  "author": "Matilda Delacourt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RVCC-IDMX/tz-converter-MatildaDelacourt/issues"
+  },
+  "homepage": "https://github.com/RVCC-IDMX/tz-converter-MatildaDelacourt#readme",
+  "dependencies": {
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.33"
+  }
+}
